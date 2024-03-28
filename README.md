@@ -1,5 +1,5 @@
 # GIT - GITHUB Test CASE1
-
+conlict here!!!
 
 ## Thông Tin Sinh Viên
 * Họ tên: Phạm Hiếu Liêm
